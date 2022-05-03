@@ -9,6 +9,6 @@ This is a simple snake Game developped using Java , Enjoy!!!
 
 <h3> ScreenShots  </h3>
 
-![alt text](https://github.com/yassineaitmalek/interpreter/blob/master/image1.png?raw=true)
+![alt text](https://github.com/yassineaitmalek/snake/blob/master/image1.png?raw=true)
 <br>
-![alt text](https://github.com/yassineaitmalek/interpreter/blob/master/image2.png?raw=true)
+![alt text](https://github.com/yassineaitmalek/snake/blob/master/image2.png?raw=true)
